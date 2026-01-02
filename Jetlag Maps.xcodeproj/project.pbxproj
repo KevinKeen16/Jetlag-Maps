@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		0AE188FD2F07B2B700045BFF /* Jetlag Maps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Jetlag Maps.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0ADC8B582F07C92A0082E2B6 /* Jetlag Maps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Jetlag Maps.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		0AE188FF2F07B2B700045BFF /* Jetlag Maps */ = {
+		0ADC8B5A2F07C92A0082E2B6 /* Jetlag Maps */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Jetlag Maps";
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		0AE188FA2F07B2B700045BFF /* Frameworks */ = {
+		0ADC8B552F07C92A0082E2B6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0AE188F42F07B2B700045BFF = {
+		0ADC8B4F2F07C92A0082E2B6 = {
 			isa = PBXGroup;
 			children = (
-				0AE188FF2F07B2B700045BFF /* Jetlag Maps */,
-				0AE188FE2F07B2B700045BFF /* Products */,
+				0ADC8B5A2F07C92A0082E2B6 /* Jetlag Maps */,
+				0ADC8B592F07C92A0082E2B6 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		0AE188FE2F07B2B700045BFF /* Products */ = {
+		0ADC8B592F07C92A0082E2B6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0AE188FD2F07B2B700045BFF /* Jetlag Maps.app */,
+				0ADC8B582F07C92A0082E2B6 /* Jetlag Maps.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0AE188FC2F07B2B700045BFF /* Jetlag Maps */ = {
+		0ADC8B572F07C92A0082E2B6 /* Jetlag Maps */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0AE189082F07B2BA00045BFF /* Build configuration list for PBXNativeTarget "Jetlag Maps" */;
+			buildConfigurationList = 0ADC8B632F07C92C0082E2B6 /* Build configuration list for PBXNativeTarget "Jetlag Maps" */;
 			buildPhases = (
-				0AE188F92F07B2B700045BFF /* Sources */,
-				0AE188FA2F07B2B700045BFF /* Frameworks */,
-				0AE188FB2F07B2B700045BFF /* Resources */,
+				0ADC8B542F07C92A0082E2B6 /* Sources */,
+				0ADC8B552F07C92A0082E2B6 /* Frameworks */,
+				0ADC8B562F07C92A0082E2B6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				0AE188FF2F07B2B700045BFF /* Jetlag Maps */,
+				0ADC8B5A2F07C92A0082E2B6 /* Jetlag Maps */,
 			);
 			name = "Jetlag Maps";
 			packageProductDependencies = (
 			);
 			productName = "Jetlag Maps";
-			productReference = 0AE188FD2F07B2B700045BFF /* Jetlag Maps.app */;
+			productReference = 0ADC8B582F07C92A0082E2B6 /* Jetlag Maps.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		0AE188F52F07B2B700045BFF /* Project object */ = {
+		0ADC8B502F07C92A0082E2B6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2610;
 				LastUpgradeCheck = 2610;
 				TargetAttributes = {
-					0AE188FC2F07B2B700045BFF = {
+					0ADC8B572F07C92A0082E2B6 = {
 						CreatedOnToolsVersion = 26.1.1;
 					};
 				};
 			};
-			buildConfigurationList = 0AE188F82F07B2B700045BFF /* Build configuration list for PBXProject "Jetlag Maps" */;
+			buildConfigurationList = 0ADC8B532F07C92A0082E2B6 /* Build configuration list for PBXProject "Jetlag Maps" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 0AE188F42F07B2B700045BFF;
+			mainGroup = 0ADC8B4F2F07C92A0082E2B6;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 0AE188FE2F07B2B700045BFF /* Products */;
+			productRefGroup = 0ADC8B592F07C92A0082E2B6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0AE188FC2F07B2B700045BFF /* Jetlag Maps */,
+				0ADC8B572F07C92A0082E2B6 /* Jetlag Maps */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		0AE188FB2F07B2B700045BFF /* Resources */ = {
+		0ADC8B562F07C92A0082E2B6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		0AE188F92F07B2B700045BFF /* Sources */ = {
+		0ADC8B542F07C92A0082E2B6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		0AE189062F07B2BA00045BFF /* Debug */ = {
+		0ADC8B612F07C92C0082E2B6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -189,7 +189,7 @@
 			};
 			name = Debug;
 		};
-		0AE189072F07B2BA00045BFF /* Release */ = {
+		0ADC8B622F07C92C0082E2B6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -246,7 +246,7 @@
 			};
 			name = Release;
 		};
-		0AE189092F07B2BA00045BFF /* Debug */ = {
+		0ADC8B642F07C92C0082E2B6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -278,7 +278,7 @@
 			};
 			name = Debug;
 		};
-		0AE1890A2F07B2BA00045BFF /* Release */ = {
+		0ADC8B652F07C92C0082E2B6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -313,25 +313,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0AE188F82F07B2B700045BFF /* Build configuration list for PBXProject "Jetlag Maps" */ = {
+		0ADC8B532F07C92A0082E2B6 /* Build configuration list for PBXProject "Jetlag Maps" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0AE189062F07B2BA00045BFF /* Debug */,
-				0AE189072F07B2BA00045BFF /* Release */,
+				0ADC8B612F07C92C0082E2B6 /* Debug */,
+				0ADC8B622F07C92C0082E2B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0AE189082F07B2BA00045BFF /* Build configuration list for PBXNativeTarget "Jetlag Maps" */ = {
+		0ADC8B632F07C92C0082E2B6 /* Build configuration list for PBXNativeTarget "Jetlag Maps" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0AE189092F07B2BA00045BFF /* Debug */,
-				0AE1890A2F07B2BA00045BFF /* Release */,
+				0ADC8B642F07C92C0082E2B6 /* Debug */,
+				0ADC8B652F07C92C0082E2B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 0AE188F52F07B2B700045BFF /* Project object */;
+	rootObject = 0ADC8B502F07C92A0082E2B6 /* Project object */;
 }
